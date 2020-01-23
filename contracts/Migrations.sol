@@ -1,3 +1,5 @@
+// this is just a smart contract thats going to handle our migrations whenever we deploy all of our smart contracts to blockchain.
+
 pragma solidity >=0.4.21 <0.7.0;
 
 contract Migrations {
